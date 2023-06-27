@@ -20,4 +20,5 @@ plt.ylabel("Fare")
 # Adding a line to the first and second columns
 plt.plot([0, 80], [85, 5])
 
+# Show plot
 plt.show()
